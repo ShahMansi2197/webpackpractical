@@ -4,7 +4,8 @@ import './styles.css';
 
 
 function App() {
-  let num;
+ 
+
   return (
     <div>
       <h1>  Hello  Mansi </h1>
